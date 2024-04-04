@@ -8,6 +8,6 @@ public class CicdController{
 	
 	@GetMapping("/hello")
 	public String helloWorld(){
-		return "please CI/CD";
+		return "casol CI/CD";
 	}
 }
